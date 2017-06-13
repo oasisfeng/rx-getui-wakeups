@@ -1,3 +1,4 @@
 <prescriptions xmlns="http://greenify.github.io/schemas/prescription/v3">
   <prescription type="service" class="com.igexin.sdk.PushService" sender="other-app"/>
+  <prescription type="activity" class="com.igexin.sdk.GActivity" sender="other-app"/>
 </prescriptions>
